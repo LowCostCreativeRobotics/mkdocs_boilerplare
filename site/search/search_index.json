@@ -1,0 +1,24 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Bem-vindo ao MkDocs\n\n\nPara uma documenta\u00e7\u00e3o completa acesse: \nmkdocs.org\n.\n\n\nComandos\n\n\n\n\nmkdocs serve\n - Inicia o servidor com atualiza\u00e7\u00e3o din\u00e2mica.\n\n\nmkdocs build\n - Constr\u00f3i o site da documenta\u00e7\u00e3o.\n\n\nmkdocs help\n - Imprime essa mensagem de ajuda.\n\n\n\n\nLayout do projeto\n\n\nmkdocs.yml    # arquivo de configura\u00e7\u00e3o.\ndocs/\n    index.md  # P\u00e1gina principal da documenta\u00e7\u00e3o.\n    ...       # Outras p\u00e1ginas markdown, imagens e outros arquivos.", 
+            "title": "Bem-vindo ao MkDocs"
+        }, 
+        {
+            "location": "/#bem-vindo-ao-mkdocs", 
+            "text": "Para uma documenta\u00e7\u00e3o completa acesse:  mkdocs.org .", 
+            "title": "Bem-vindo ao MkDocs"
+        }, 
+        {
+            "location": "/#comandos", 
+            "text": "mkdocs serve  - Inicia o servidor com atualiza\u00e7\u00e3o din\u00e2mica.  mkdocs build  - Constr\u00f3i o site da documenta\u00e7\u00e3o.  mkdocs help  - Imprime essa mensagem de ajuda.", 
+            "title": "Comandos"
+        }, 
+        {
+            "location": "/#layout-do-projeto", 
+            "text": "mkdocs.yml    # arquivo de configura\u00e7\u00e3o.\ndocs/\n    index.md  # P\u00e1gina principal da documenta\u00e7\u00e3o.\n    ...       # Outras p\u00e1ginas markdown, imagens e outros arquivos.", 
+            "title": "Layout do projeto"
+        }
+    ]
+}
